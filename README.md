@@ -1,12 +1,13 @@
-#Electronics Price Prediction
+#**Electronics Price Prediction**
 
-##📌 Project Overview
+##**📌 Project Overview**
 
 This project aims to predict the prices of various electronic devices—including laptops, mobile phones, and televisions—using machine learning techniques. With the rapid evolution of technology and fluctuating market trends, accurate price prediction can help consumers, retailers, and manufacturers make informed decisions.
 Our approach leverages data-driven models instead of relying solely on traditional expert judgment, enabling dynamic adjustments to market changes.
+
 --
 
-##🛠️ Technologies Used
+##**🛠️ Technologies Used**
 
 Programming Language: Python
 
@@ -15,9 +16,10 @@ Databases: MongoDB, PostgreSQL 16
 Libraries & Tools: Pandas, NumPy, Matplotlib, Seaborn, Plotly
 
 Development Environment: Visual Studio Code (Windows & macOS)
+
 --
 
-##📂 Datasets
+##**📂 Datasets**
 
 We used three datasets sourced from Kaggle:
 
@@ -29,7 +31,7 @@ Mobile Dataset – Includes RAM, ROM, battery capacity, camera quality, and pric
 
 --
 
-##🔄 Project Workflow
+##**🔄 Project Workflow**
 
 Data Collection & Storage
 
@@ -57,7 +59,7 @@ Performed additional visualizations such as battery distribution histograms and 
 
 --
 
-##📊 Key Insights
+##**📊 Key Insights**
 
 RAM, ROM, and battery capacity have a strong positive correlation with price in mobile devices.
 
@@ -69,7 +71,7 @@ Merged dataset analysis revealed consumer preferences for higher battery capacit
 
 --
 
-##📈 Visualizations
+##**📈 Visualizations**
 
 Histograms & KDE plots – Show distribution of features like battery capacity.
 
@@ -81,7 +83,7 @@ Scatter Plots – Relationships between specifications and price.
 
 --
 
-##📚 Conclusion
+##**📚 Conclusion**
 
 The project successfully demonstrates that machine learning-based analysis of specifications and ratings can provide valuable insights for:
 
@@ -93,7 +95,7 @@ Manufacturers – Aligning production with market demand.
 
 --
 
-##📜 References
+##**📜 References**
 
 Mark D. Allendorf et al. – Electronics Industry Research
 
@@ -105,7 +107,7 @@ Kimball & Caserta – The Data Warehouse ETL Toolkit
 
 --
 
-##👨‍💻 Authors
+##**👨‍💻 Authors**
 
 Ajith Gundan – Mobile Price Analysis
 

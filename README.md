@@ -1,11 +1,12 @@
-Electronics Price Prediction
+#Electronics Price Prediction
 
-📌 Project Overview
+##📌 Project Overview
 
 This project aims to predict the prices of various electronic devices—including laptops, mobile phones, and televisions—using machine learning techniques. With the rapid evolution of technology and fluctuating market trends, accurate price prediction can help consumers, retailers, and manufacturers make informed decisions.
 Our approach leverages data-driven models instead of relying solely on traditional expert judgment, enabling dynamic adjustments to market changes.
+--
 
-🛠️ Technologies Used
+##🛠️ Technologies Used
 
 Programming Language: Python
 
@@ -14,8 +15,9 @@ Databases: MongoDB, PostgreSQL 16
 Libraries & Tools: Pandas, NumPy, Matplotlib, Seaborn, Plotly
 
 Development Environment: Visual Studio Code (Windows & macOS)
+--
 
-📂 Datasets
+##📂 Datasets
 
 We used three datasets sourced from Kaggle:
 
@@ -25,7 +27,9 @@ Laptop Dataset – Contains details such as OS, screen resolution, weight, and p
 
 Mobile Dataset – Includes RAM, ROM, battery capacity, camera quality, and price.
 
-🔄 Project Workflow
+--
+
+##🔄 Project Workflow
 
 Data Collection & Storage
 
@@ -51,7 +55,9 @@ Combined all datasets to analyze cross-category trends.
 
 Performed additional visualizations such as battery distribution histograms and price variation box plots.
 
-📊 Key Insights
+--
+
+##📊 Key Insights
 
 RAM, ROM, and battery capacity have a strong positive correlation with price in mobile devices.
 
@@ -61,7 +67,9 @@ Operating system type impacts TV price variations.
 
 Merged dataset analysis revealed consumer preferences for higher battery capacities and highlighted OS-based price differences.
 
-📈 Visualizations
+--
+
+##📈 Visualizations
 
 Histograms & KDE plots – Show distribution of features like battery capacity.
 
@@ -71,7 +79,9 @@ Bar Charts & Pie Charts – Ratings and brand popularity.
 
 Scatter Plots – Relationships between specifications and price.
 
-📚 Conclusion
+--
+
+##📚 Conclusion
 
 The project successfully demonstrates that machine learning-based analysis of specifications and ratings can provide valuable insights for:
 
@@ -81,7 +91,9 @@ Retailers – Adjusting pricing strategies.
 
 Manufacturers – Aligning production with market demand.
 
-📜 References
+--
+
+##📜 References
 
 Mark D. Allendorf et al. – Electronics Industry Research
 
@@ -91,7 +103,9 @@ W.H. Inmon – Building the Data Warehouse
 
 Kimball & Caserta – The Data Warehouse ETL Toolkit
 
-👨‍💻 Authors
+--
+
+##👨‍💻 Authors
 
 Ajith Gundan – Mobile Price Analysis
 

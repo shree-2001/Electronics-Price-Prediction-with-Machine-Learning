@@ -1,8 +1,8 @@
 Electronics Price Prediction
+
 📌 Project Overview
 
 This project aims to predict the prices of various electronic devices—including laptops, mobile phones, and televisions—using machine learning techniques. With the rapid evolution of technology and fluctuating market trends, accurate price prediction can help consumers, retailers, and manufacturers make informed decisions.
-
 Our approach leverages data-driven models instead of relying solely on traditional expert judgment, enabling dynamic adjustments to market changes.
 
 🛠️ Technologies Used
